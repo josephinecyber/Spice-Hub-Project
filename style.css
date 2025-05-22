@@ -8,7 +8,7 @@ nav {
   flex-direction: row;
   justify-content: space-between;
   padding: 1rem 6rem;
-  background-color: black;
+  background-color:rgb(0, 174, 255);
   color: white;
   align-items: center;
   font-size: 20px;
@@ -34,7 +34,7 @@ nav input::placeholder {
   font-size: 15px;
 }
 #hero {
-  background-image: url("./assets/fruit\ 2.jpg");
+  background-image: url("./assets/drink\ 3.png");
   height: 80vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -101,13 +101,14 @@ nav input::placeholder {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 50px;
+  
 }
 
 #features-card div {
   display: flex;
   flex-direction: column;
   row-gap: 10px;
-  background-color: rgb(227, 226, 266);
+  background-color: rgb(192, 79, 98);
   justify-content: center;
   padding: 2rem;
   text-align: center;
